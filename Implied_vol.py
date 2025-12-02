@@ -361,7 +361,7 @@ print(df_flagged)
 
 
 # %%
-#load_dotenv(r"C:your_path/iv.env")
+#load_dotenv(r"C:your_path/.env")
 
 # %%
 #smtp_server = "smtp.gmail.com"
@@ -428,6 +428,7 @@ print(df_flagged)
 
 
 # %%
+
 
 
 
